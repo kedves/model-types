@@ -1,6 +1,6 @@
 <?php
 
-namespace Gimmersta\Cronos\Core\Models\Types;
+namespace Gimmersta\ModelTypes;
 
 use Illuminate\Auth\Authenticatable;
 use Illuminate\Auth\MustVerifyEmail;
