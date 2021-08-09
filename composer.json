@@ -28,17 +28,11 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "Gimmersta\\Cronos\\Core\\Tests\\": "tests/"
+            "Gimmersta\\ModelTypes\\": "tests/"
         }
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
     "scripts": {
-    },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "git@github.com:gimmersta/storyblok-components.git"
-        }
-    ]
+    }
 }
